@@ -1,0 +1,22 @@
+.todos{
+    display: flex;
+}
+.operadores{
+    display: flex;
+    flex-direction: column;
+}
+body{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    gap: 10px;
+}
+.display{
+    width: 200px;
+    height: 40px;
+}
+.todos button{
+    width: 50px;
+    height: 50px;
+    
+}
